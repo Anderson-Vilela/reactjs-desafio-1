@@ -1,14 +1,15 @@
+import React from 'react';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 
-function Home() {
+function Login() {
   return (
     <div className="flex min-h-screen flex-col">
       <Navbar />
-      <main className="container flex-1">home</main>
+      <main className="container flex-1">Login</main>
       <Footer />
     </div>
   );
 }
 
-export default Home;
+export default Login;

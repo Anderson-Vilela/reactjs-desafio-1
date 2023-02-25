@@ -1,0 +1,7 @@
+html {
+  @apply text-[62.5%];
+}
+body, button, input, select, textarea {
+  @apply text-[1.6rem]
+}
+

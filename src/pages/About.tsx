@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="flex min-h-screen flex-col">
       <Navbar />
-      <main className="flex-1">about</main>
+      <main className="container flex-1">About</main>
       <Footer />
     </div>
   );
